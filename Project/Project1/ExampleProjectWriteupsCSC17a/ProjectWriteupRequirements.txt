@@ -1,0 +1,49 @@
+Project 1 Writeup 
+
+Your first project is to be a minimum of 250 lines for CIS 17A
+which must include concepts from Lessons completed prior to the date it is due.
+The key is to include as many concepts from the Chapters in the book covered up
+to Chapter 12.
+
+Submit in the assignment section as well
+as sending to my email address, mark.lehr@rcc.edu
+with subject: Lastname, Firstname - Project 1 - YourSectionCode
+
+I have included several example writeups from various classes
+for your review.
+
+
+The writeup should have the following sections
+
+Introduction
+   Answer, what it is, why you are doing it, why it is important
+   If your Mom can read this and understand it then your introduction
+   should be pretty good.
+Summary
+   Give me statistics on how large the program is, why it meets the
+   criteria for a first project.  How many variables, constructs,
+   utilized etc....  Was it challenging to do, how long did it take
+   you and anything else you can say especially aspects of the
+   project that you had to construct from other chapters not
+   directly covered in this course which you can bring up as extra
+   credit.
+Description
+   Initially, describe in general terms how you programmed the 
+       solution to the problem.  Include
+   Sample Input/Output
+	Give me inputs to use and what the outputs would be.  Screen
+        shots are a must.
+   Flowcharts/Pseudocode/UML
+        Document visually enough of the code so that I know you
+        can use the visual techniques required.
+   Variables
+        Describe all major variables, their types and where located
+        in the code.
+   Concepts
+        Each chapter you learned new concepts, syntax and keywords.  List
+        them and tell me where they located in the program.
+References
+   Describe pieces of code borrowed from elsewhere or other code
+   you had to convert, etc...
+Program
+   Listing of your documented code.

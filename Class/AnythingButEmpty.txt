@@ -1,0 +1,6 @@
+If folder is left blank,
+it will not appear in Git
+directory structure.  Simply
+place a dummy file in the
+folder so that it will
+appear in Git path.
