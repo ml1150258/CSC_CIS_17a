@@ -1,0 +1,41 @@
+This gives 3 example outputs.
+
+Original Array
+0 1 2 3 4 5 6 7 
+
+The average of the array = 3.5
+The median of the array  = 3.5
+The number of modes      = 0
+The max Frequency        = 1
+The mode set             = {null}
+
+
+
+Original Array
+0 1 2 3 4 5 6 7 8 9 
+0 1 2 3 4 5 6 7 8 9 
+0 1 2 3 4 5 6 7 8 9 
+0 
+
+The average of the array = 4.35484
+The median of the array  = 4
+The number of modes      = 1
+The max Frequency        = 4
+The mode set             = {0}
+
+
+
+
+Original Array
+0 1 2 3 4 5 6 7 8 9 
+0 1 2 3 4 5 6 7 8 9 
+0 1 2 3 4 5 6 7 8 9 
+0 1 2 3 4 5 6 7 8 
+
+The average of the array = 4.38462
+The median of the array  = 4
+The number of modes      = 9
+The max Frequency        = 4
+The mode set             = {0,1,2,3,4,5,6,7,8}
+
+
