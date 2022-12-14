@@ -7,21 +7,21 @@ CND_BASEDIR=`pwd`
 CND_BUILDDIR=build
 CND_DISTDIR=dist
 # Debug configuration
-CND_PLATFORM_Debug=MinGW-Windows
-CND_ARTIFACT_DIR_Debug=dist/Debug/MinGW-Windows
+CND_PLATFORM_Debug=Cygwin_1-Windows
+CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin_1-Windows
 CND_ARTIFACT_NAME_Debug=carddeck_v6_template
-CND_ARTIFACT_PATH_Debug=dist/Debug/MinGW-Windows/carddeck_v6_template
-CND_PACKAGE_DIR_Debug=dist/Debug/MinGW-Windows/package
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_1-Windows/carddeck_v6_template
+CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin_1-Windows/package
 CND_PACKAGE_NAME_Debug=carddeckv6template.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/MinGW-Windows/package/carddeckv6template.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_1-Windows/package/carddeckv6template.tar
 # Release configuration
-CND_PLATFORM_Release=MinGW-Windows
-CND_ARTIFACT_DIR_Release=dist/Release/MinGW-Windows
+CND_PLATFORM_Release=Cygwin_1-Windows
+CND_ARTIFACT_DIR_Release=dist/Release/Cygwin_1-Windows
 CND_ARTIFACT_NAME_Release=carddeck_v6_template
-CND_ARTIFACT_PATH_Release=dist/Release/MinGW-Windows/carddeck_v6_template
-CND_PACKAGE_DIR_Release=dist/Release/MinGW-Windows/package
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_1-Windows/carddeck_v6_template
+CND_PACKAGE_DIR_Release=dist/Release/Cygwin_1-Windows/package
 CND_PACKAGE_NAME_Release=carddeckv6template.tar
-CND_PACKAGE_PATH_Release=dist/Release/MinGW-Windows/package/carddeckv6template.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin_1-Windows/package/carddeckv6template.tar
 #
 # include compiler specific variables
 #
