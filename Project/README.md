@@ -1,2 +1,2 @@
-# 2021_Summer_CSC_CIS_5
-Intro to C++ Programming
+# CSC_CIS_17A
+C++ Programming
