@@ -72,10 +72,10 @@ int main(int argc, char** argv) {
 void destroy(Movies *movies){
     //Clean Up the Dynamic Stuff
     for(int mvees=0;mvees<movies->nMovies;mvees++){
-        delete [] movies->mveInfo[mvees].dirName;//The character arrays in the Stucture
+        delete [] movies->mveInfo[mvees].dirName;//The character arrays in the Structure
     }
     delete [] movies->mveInfo;//Now the array of Structures
-    delete movies;//Now deallocate the final Movie Structure
+    delete movies;//Now de-allocate the final Movie Structure
 }
 
 //Just copy, cut, and paste into a function.  Code already checked out in main.

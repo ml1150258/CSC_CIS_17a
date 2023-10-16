@@ -7,21 +7,21 @@ CND_BASEDIR=`pwd`
 CND_BUILDDIR=build
 CND_DISTDIR=dist
 # Debug configuration
-CND_PLATFORM_Debug=MinGW-Windows
-CND_ARTIFACT_DIR_Debug=dist/Debug/MinGW-Windows
+CND_PLATFORM_Debug=Cygwin-Windows
+CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
 CND_ARTIFACT_NAME_Debug=0_readwriteclasstobinaryfile
-CND_ARTIFACT_PATH_Debug=dist/Debug/MinGW-Windows/0_readwriteclasstobinaryfile
-CND_PACKAGE_DIR_Debug=dist/Debug/MinGW-Windows/package
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/0_readwriteclasstobinaryfile
+CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
 CND_PACKAGE_NAME_Debug=0readwriteclasstobinaryfile.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/MinGW-Windows/package/0readwriteclasstobinaryfile.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/0readwriteclasstobinaryfile.tar
 # Release configuration
-CND_PLATFORM_Release=MinGW-Windows
-CND_ARTIFACT_DIR_Release=dist/Release/MinGW-Windows
+CND_PLATFORM_Release=Cygwin-Windows
+CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
 CND_ARTIFACT_NAME_Release=0_readwriteclasstobinaryfile
-CND_ARTIFACT_PATH_Release=dist/Release/MinGW-Windows/0_readwriteclasstobinaryfile
-CND_PACKAGE_DIR_Release=dist/Release/MinGW-Windows/package
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/0_readwriteclasstobinaryfile
+CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
 CND_PACKAGE_NAME_Release=0readwriteclasstobinaryfile.tar
-CND_PACKAGE_PATH_Release=dist/Release/MinGW-Windows/package/0readwriteclasstobinaryfile.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/0readwriteclasstobinaryfile.tar
 #
 # include compiler specific variables
 #

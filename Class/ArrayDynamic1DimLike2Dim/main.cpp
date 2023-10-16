@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
     int row,col,perLine,*a1D,**a2D,*a12D;
     
     //Input or initialize values Here
-    row=10,perLine=col=20;
+    row=5,perLine=col=10;
     a1D=filAray(row*col);
     a12D=fil1t2(row,col);
     a2D=filAray(row,col);

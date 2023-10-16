@@ -91,7 +91,7 @@ Array *readBin(fstream &in,int record){
     in.seekg(cursor,ios::beg);
     in.read(reinterpret_cast<char *>(&a->size),sizeof(int));
     a->data=new int[a->size];
-    in.read(reinterpret_cast<char *>( a->data),a->size*sizeof(int));
+    in.read(reinterpret_cast<char *>(&a->data[0]),a->size*sizeof(int));
     a->index=new int[a->size];
     in.read(reinterpret_cast<char *>(a->index),a->size*sizeof(int));
     return a;

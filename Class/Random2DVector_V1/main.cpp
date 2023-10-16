@@ -27,8 +27,8 @@ int main(int argc, char** argv) {
     srand(static_cast<unsigned int>(time(0)));
     
     //Declare all variables for this function
-    int rows=10;
-    int cols=20;
+    int rows=15;
+    int cols=10;
     vector<vector<int>> array(rows);
     
     //Allocate the 2D array
