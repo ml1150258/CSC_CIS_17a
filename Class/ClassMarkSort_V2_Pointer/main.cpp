@@ -34,6 +34,7 @@ int main(int argc, char** argv) {
     
     //Display the results
     cout<<"Display the Original Random Array"<<endl;
+    //(*ptr).display(10);
     ptr->display(10);
     
     //Testing the memory swap function

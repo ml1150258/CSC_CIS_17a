@@ -7,7 +7,6 @@
 
 #include "Array.h"
 #include <iostream>
-#include <cstdlib>
 using namespace std;
 
 Array::Array(int n){

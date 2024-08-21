@@ -7,21 +7,21 @@ CND_BASEDIR=`pwd`
 CND_BUILDDIR=build
 CND_DISTDIR=dist
 # Debug configuration
-CND_PLATFORM_Debug=MinGW-Windows
-CND_ARTIFACT_DIR_Debug=dist/Debug/MinGW-Windows
+CND_PLATFORM_Debug=Cygwin-Windows
+CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
 CND_ARTIFACT_NAME_Debug=4_timeclass
-CND_ARTIFACT_PATH_Debug=dist/Debug/MinGW-Windows/4_timeclass
-CND_PACKAGE_DIR_Debug=dist/Debug/MinGW-Windows/package
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/4_timeclass
+CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
 CND_PACKAGE_NAME_Debug=4timeclass.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/MinGW-Windows/package/4timeclass.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/4timeclass.tar
 # Release configuration
-CND_PLATFORM_Release=MinGW-Windows
-CND_ARTIFACT_DIR_Release=dist/Release/MinGW-Windows
+CND_PLATFORM_Release=Cygwin-Windows
+CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
 CND_ARTIFACT_NAME_Release=4_timeclass
-CND_ARTIFACT_PATH_Release=dist/Release/MinGW-Windows/4_timeclass
-CND_PACKAGE_DIR_Release=dist/Release/MinGW-Windows/package
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/4_timeclass
+CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
 CND_PACKAGE_NAME_Release=4timeclass.tar
-CND_PACKAGE_PATH_Release=dist/Release/MinGW-Windows/package/4timeclass.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/4timeclass.tar
 #
 # include compiler specific variables
 #

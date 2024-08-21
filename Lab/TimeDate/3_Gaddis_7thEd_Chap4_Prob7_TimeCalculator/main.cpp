@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
     //Initialize variables
     cout<<"This program converts seconds to Years/Months/Weeks/Days/Hours"<<endl;
     cout<<"Input the number of seconds for the conversion/equivalence"<<endl;
-    nSecs=rand()*rand();
+    nSecs=rand()%1000000;
     cout<<nSecs<<" seconds"<<endl;
     
     //Map inputs to outputs or process the data

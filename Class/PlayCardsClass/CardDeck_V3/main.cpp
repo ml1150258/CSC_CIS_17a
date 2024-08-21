@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
     
     //Reallocate Memory
     for(int i=0;i<nCards;i++){
-        delete deck[i];       //Destruction of each individual card
+        delete i[deck];       //Destruction of each individual card
     }
     delete []deck;            //Destruction of the array of pointers
 
